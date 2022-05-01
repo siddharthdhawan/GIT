@@ -1,1 +1,2 @@
 Seventh File
+New line in seventh file
